@@ -1,0 +1,68 @@
+
+Skeleton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+3 - Skeleton Attack
+  rotate: false
+  xy: 1, 88
+  size: 774, 37
+  orig: 774, 37
+  offset: 0, 0
+  index: -1
+4 - Skeleton Dead
+  rotate: false
+  xy: 1, 54
+  size: 495, 32
+  orig: 495, 32
+  offset: 0, 0
+  index: -1
+2 - Skeleton Walk
+  rotate: false
+  xy: 1, 19
+  size: 286, 33
+  orig: 286, 33
+  offset: 0, 0
+  index: -1
+1 - Skeleton Idle
+  rotate: false
+  xy: 498, 54
+  size: 264, 32
+  orig: 264, 32
+  offset: 0, 0
+  index: -1
+5 - Skeleton Hit
+  rotate: false
+  xy: 777, 93
+  size: 240, 32
+  orig: 240, 32
+  offset: 0, 0
+  index: -1
+6 - Skeleton React
+  rotate: false
+  xy: 289, 20
+  size: 88, 32
+  orig: 88, 32
+  offset: 0, 0
+  index: -1
+turtle
+  rotate: false
+  xy: 379, 28
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+goomba
+  rotate: false
+  xy: 1, 1
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+mushroom
+  rotate: false
+  xy: 477, 36
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

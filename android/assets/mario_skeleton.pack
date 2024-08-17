@@ -1,0 +1,40 @@
+
+mario_skeleton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Skeleton Attack
+  rotate: false
+  xy: 1, 69
+  size: 774, 37
+  orig: 774, 37
+  offset: 0, 0
+  index: -1
+Skeleton Dead
+  rotate: false
+  xy: 1, 35
+  size: 495, 32
+  orig: 495, 32
+  offset: 0, 0
+  index: -1
+Skeleton Idle
+  rotate: false
+  xy: 1, 1
+  size: 264, 32
+  orig: 264, 32
+  offset: 0, 0
+  index: -1
+Skeleton Hit
+  rotate: false
+  xy: 777, 74
+  size: 240, 32
+  orig: 240, 32
+  offset: 0, 0
+  index: -1
+Skeleton React
+  rotate: false
+  xy: 498, 35
+  size: 88, 32
+  orig: 88, 32
+  offset: 0, 0
+  index: -1
